@@ -6,7 +6,7 @@ Studying B.S. Math & Info Engineering at CUHK
 
 - 🌱 currently learning **PyTorch, AI/ML, Prompt Engineering**
 
-- 👯 looking to collaborate on **Open source projects**
+- 👯 looking to collaborate on **open source projects**
 
 - 📫 reach me at **1155246441@link.cuhk.edu.hk**
 
