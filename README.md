@@ -2,8 +2,6 @@
 
 Studying B.S. Math & Info Engineering at CUHK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtsels&label=Profile views&color=0e75b6&style=flat" alt="mrtsels" /> </p>
-
 - 🔭 currently working on **PPT to Textbook: Agent-Powered Generation with Narration**
 
 - 🌱 currently learning **PyTorch, AI/ML, Prompt Engineering**
