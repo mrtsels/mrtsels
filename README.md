@@ -6,7 +6,7 @@
 - 🛸 research focus: **drone photogrammetry (Pix4D) → 3D reconstruction → graph learning**
 - 🌱 diving deeper into **GNN architectures, NLP agents, and scalable ML pipelines**
 - 👯 open to collab on **GNN, AI agents, and mapping/geospatial projects**
-- 📫 reach me at **1155246441@link.cuhk.edu.hk**
+- 📫 reach me at **mrtsels@agent.qq.com**
 
 ---
 
