@@ -2,7 +2,8 @@
 
 **Math & Info Engineering @ CUHK** — researching graph neural networks, multi-agent systems, and AI-powered geospatial analysis.
 
-- 🔭 currently working on **GNN-based geospatial modeling & multi-agent AI systems**
+- 🔭 researching **GNN-based geospatial modeling & multi-agent AI systems**
+- 💼 summer intern — FOF private fund access due diligence, trust product operations
 - 🛸 research focus: **drone photogrammetry (Pix4D) → 3D reconstruction → graph learning**
 - 🌱 diving deeper into **GNN architectures, NLP agents, and scalable ML pipelines**
 - 👯 open to collab on **GNN, AI agents, and mapping/geospatial projects**
