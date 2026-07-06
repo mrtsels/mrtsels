@@ -3,7 +3,7 @@
 **Math & Info Engineering @ CUHK** — researching graph neural networks, multi-agent systems, and AI-powered geospatial analysis.
 
 - 🔭 researching **GNN-based geospatial modeling & multi-agent AI systems**
-- 💼 summer intern — FOF private fund access due diligence, trust product operations
+- 💼 summer intern — FOF due diligence, trust operations
 - 🏗️ building **enterprise government service platform** — Spring Boot 3.4, offline deployment
 - 🛸 research focus: **drone photogrammetry (Pix4D) → 3D reconstruction → graph learning**
 - 🌱 diving deeper into **GNN architectures, NLP agents, and scalable ML pipelines**
