@@ -1,4 +1,4 @@
-# hi, i'm minimx 🧮
+# hi, i’m Alex 🧮
 
 **B.S. Math & Info Engineering @ CUHK**
 
