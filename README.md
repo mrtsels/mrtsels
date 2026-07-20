@@ -1,12 +1,12 @@
 # hi, i’m Alex 🧮
 
-**B.S. Math & Info Engineering @ [CUHK](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/)**
+**b.s. in math & info engineering @ [cuhk](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/)**
 
-- 🛠️ build **enterprise service platforms** with Spring Boot 3 + JPA + MySQL + Vanilla JS
-- 🧪 research **heterogeneous bipartite GNNs** for GUI structure error correction with PyTorch & PyTorch Geometric
-- 📊 study **quantitative finance** — ML, statistical arbitrage, market micro-structure in Python & C++
-- 🤖 automate **financial due-diligence workflows** with LLM-driven document processing and agent orchestration
-- 🕸️ experiment with **GNN-based graph classification**, vision-language models, and automated reasoning over structured documents
+- 🛠️ build **enterprise service platforms** — spring boot 3, jpa, mysql, vanilla js
+- 🧪 research **heterogeneous bipartite gnns** — pytorch, pytorch geometric, gui structure error correction
+- 📊 study **quantitative finance** — ml, statistical arbitrage, market micro-structure, python & c++
+- 🤖 automate **financial due-diligence workflows** — llm agents, document processing, structured reasoning
+- 🕸️ experiment **gnn-based graph classification** — vision-language models, automated document reasoning
 
 <h3 align="left">connect</h3>
 <p align="left">
