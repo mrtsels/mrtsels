@@ -1,6 +1,6 @@
 # hi, i’m Alex 🧮
 
-**B.S. Math & Info Engineering @ CUHK**
+**B.S. Math & Info Engineering @ [CUHK](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/)**
 
 - 🛠️ build **enterprise service platforms** with Spring Boot 3 + JPA + MySQL + Vanilla JS
 - 🧪 research **heterogeneous bipartite GNNs** for GUI structure error correction with PyTorch & PyTorch Geometric
